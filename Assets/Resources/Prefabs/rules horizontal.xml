@@ -1,0 +1,146 @@
+<set>
+  <tiles>
+<tile name="room_O" symmetry="X" weight="1.0"/>
+<tile name="room_I" symmetry="I" weight="15.0"/>
+<tile name="room_U" symmetry="T" weight="10.0"/>
+<tile name="room_L" symmetry="L" weight="10.0"/>
+<tile name="room_T" symmetry="T" weight="4.0"/>
+<tile name="room_X" symmetry="X" weight="2.0"/>
+	</tiles>
+<neighbors>
+  <neighbor left="room_O 0" right="room_O 0"/>
+  <neighbor left="room_I 0" right="room_O 0"/>
+  <neighbor left="room_U 0" right="room_O 0"/>
+  <neighbor left="room_U 3" right="room_O 0"/>
+  <neighbor left="room_U 2" right="room_O 0"/>
+  <neighbor left="room_L 0" right="room_O 0"/>
+  <neighbor left="room_L 3" right="room_O 0"/>
+  <neighbor left="room_T 1" right="room_O 0"/>
+  <neighbor left="room_O 0" right="room_I 0"/>
+  <neighbor left="room_I 0" right="room_I 0"/>
+  <neighbor left="room_U 0" right="room_I 0"/>
+  <neighbor left="room_U 3" right="room_I 0"/>
+  <neighbor left="room_U 2" right="room_I 0"/>
+  <neighbor left="room_L 0" right="room_I 0"/>
+  <neighbor left="room_L 3" right="room_I 0"/>
+  <neighbor left="room_T 1" right="room_I 0"/>
+  <neighbor left="room_O 0" right="room_U 0"/>
+  <neighbor left="room_I 0" right="room_U 0"/>
+  <neighbor left="room_U 0" right="room_U 0"/>
+  <neighbor left="room_U 3" right="room_U 0"/>
+  <neighbor left="room_U 2" right="room_U 0"/>
+  <neighbor left="room_L 0" right="room_U 0"/>
+  <neighbor left="room_L 3" right="room_U 0"/>
+  <neighbor left="room_T 1" right="room_U 0"/>
+  <neighbor left="room_O 0" right="room_U 2"/>
+  <neighbor left="room_I 0" right="room_U 2"/>
+  <neighbor left="room_U 0" right="room_U 2"/>
+  <neighbor left="room_U 3" right="room_U 2"/>
+  <neighbor left="room_U 2" right="room_U 2"/>
+  <neighbor left="room_L 0" right="room_U 2"/>
+  <neighbor left="room_L 3" right="room_U 2"/>
+  <neighbor left="room_T 1" right="room_U 2"/>
+  <neighbor left="room_O 0" right="room_U 1"/>
+  <neighbor left="room_I 0" right="room_U 1"/>
+  <neighbor left="room_U 0" right="room_U 1"/>
+  <neighbor left="room_U 3" right="room_U 1"/>
+  <neighbor left="room_U 2" right="room_U 1"/>
+  <neighbor left="room_L 0" right="room_U 1"/>
+  <neighbor left="room_L 3" right="room_U 1"/>
+  <neighbor left="room_T 1" right="room_U 1"/>
+  <neighbor left="room_O 0" right="room_L 2"/>
+  <neighbor left="room_I 0" right="room_L 2"/>
+  <neighbor left="room_U 0" right="room_L 2"/>
+  <neighbor left="room_U 3" right="room_L 2"/>
+  <neighbor left="room_U 2" right="room_L 2"/>
+  <neighbor left="room_L 0" right="room_L 2"/>
+  <neighbor left="room_L 3" right="room_L 2"/>
+  <neighbor left="room_T 1" right="room_L 2"/>
+  <neighbor left="room_O 0" right="room_L 1"/>
+  <neighbor left="room_I 0" right="room_L 1"/>
+  <neighbor left="room_U 0" right="room_L 1"/>
+  <neighbor left="room_U 3" right="room_L 1"/>
+  <neighbor left="room_U 2" right="room_L 1"/>
+  <neighbor left="room_L 0" right="room_L 1"/>
+  <neighbor left="room_L 3" right="room_L 1"/>
+  <neighbor left="room_T 1" right="room_L 1"/>
+  <neighbor left="room_O 0" right="room_T 3"/>
+  <neighbor left="room_I 0" right="room_T 3"/>
+  <neighbor left="room_U 0" right="room_T 3"/>
+  <neighbor left="room_U 3" right="room_T 3"/>
+  <neighbor left="room_U 2" right="room_T 3"/>
+  <neighbor left="room_L 0" right="room_T 3"/>
+  <neighbor left="room_L 3" right="room_T 3"/>
+  <neighbor left="room_T 1" right="room_T 3"/>
+  <neighbor left="room_I 3" right="room_I 3"/>
+  <neighbor left="room_U 1" right="room_I 3"/>
+  <neighbor left="room_L 2" right="room_I 3"/>
+  <neighbor left="room_L 1" right="room_I 3"/>
+  <neighbor left="room_T 0" right="room_I 3"/>
+  <neighbor left="room_T 3" right="room_I 3"/>
+  <neighbor left="room_T 2" right="room_I 3"/>
+  <neighbor left="room_X 0" right="room_I 3"/>
+  <neighbor left="room_I 3" right="room_U 3"/>
+  <neighbor left="room_U 1" right="room_U 3"/>
+  <neighbor left="room_L 2" right="room_U 3"/>
+  <neighbor left="room_L 1" right="room_U 3"/>
+  <neighbor left="room_T 0" right="room_U 3"/>
+  <neighbor left="room_T 3" right="room_U 3"/>
+  <neighbor left="room_T 2" right="room_U 3"/>
+  <neighbor left="room_X 0" right="room_U 3"/>
+  <neighbor left="room_I 3" right="room_L 0"/>
+  <neighbor left="room_U 1" right="room_L 0"/>
+  <neighbor left="room_L 2" right="room_L 0"/>
+  <neighbor left="room_L 1" right="room_L 0"/>
+  <neighbor left="room_T 0" right="room_L 0"/>
+  <neighbor left="room_T 3" right="room_L 0"/>
+  <neighbor left="room_T 2" right="room_L 0"/>
+  <neighbor left="room_X 0" right="room_L 0"/>
+  <neighbor left="room_I 3" right="room_L 3"/>
+  <neighbor left="room_U 1" right="room_L 3"/>
+  <neighbor left="room_L 2" right="room_L 3"/>
+  <neighbor left="room_L 1" right="room_L 3"/>
+  <neighbor left="room_T 0" right="room_L 3"/>
+  <neighbor left="room_T 3" right="room_L 3"/>
+  <neighbor left="room_T 2" right="room_L 3"/>
+  <neighbor left="room_X 0" right="room_L 3"/>
+  <neighbor left="room_I 3" right="room_T 0"/>
+  <neighbor left="room_U 1" right="room_T 0"/>
+  <neighbor left="room_L 2" right="room_T 0"/>
+  <neighbor left="room_L 1" right="room_T 0"/>
+  <neighbor left="room_T 0" right="room_T 0"/>
+  <neighbor left="room_T 3" right="room_T 0"/>
+  <neighbor left="room_T 2" right="room_T 0"/>
+  <neighbor left="room_X 0" right="room_T 0"/>
+  <neighbor left="room_I 3" right="room_T 2"/>
+  <neighbor left="room_U 1" right="room_T 2"/>
+  <neighbor left="room_L 2" right="room_T 2"/>
+  <neighbor left="room_L 1" right="room_T 2"/>
+  <neighbor left="room_T 0" right="room_T 2"/>
+  <neighbor left="room_T 3" right="room_T 2"/>
+  <neighbor left="room_T 2" right="room_T 2"/>
+  <neighbor left="room_X 0" right="room_T 2"/>
+  <neighbor left="room_I 3" right="room_T 1"/>
+  <neighbor left="room_U 1" right="room_T 1"/>
+  <neighbor left="room_L 2" right="room_T 1"/>
+  <neighbor left="room_L 1" right="room_T 1"/>
+  <neighbor left="room_T 0" right="room_T 1"/>
+  <neighbor left="room_T 3" right="room_T 1"/>
+  <neighbor left="room_T 2" right="room_T 1"/>
+  <neighbor left="room_X 0" right="room_T 1"/>
+  <neighbor left="room_I 3" right="room_X 0"/>
+  <neighbor left="room_U 1" right="room_X 0"/>
+  <neighbor left="room_L 2" right="room_X 0"/>
+  <neighbor left="room_L 1" right="room_X 0"/>
+  <neighbor left="room_T 0" right="room_X 0"/>
+  <neighbor left="room_T 3" right="room_X 0"/>
+  <neighbor left="room_T 2" right="room_X 0"/>
+  <neighbor left="room_X 0" right="room_X 0"/>
+	</neighbors>
+	<subsets>
+		<subset name="subset">
+			<tile name="room_O"/>
+			<tile name="room_T"/>
+		</subset>
+	</subsets>
+</set>

@@ -1,0 +1,5231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &955384125601421634
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7425995972940441447}
+  - component: {fileID: 4242411930635027003}
+  - component: {fileID: 6918833969756934702}
+  m_Layer: 12
+  m_Name: Custom2DField
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7425995972940441447
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 955384125601421634}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.4, y: 0.96, z: -2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6360448951029398229}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4242411930635027003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 955384125601421634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b493b474cee08c4ba5dabdfeb45b65e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  connectivity: {fileID: 2043350803235534163}
+  kind: 1
+  connections:
+  - field: {fileID: 4242411930635027003}
+    connectionType: 22
+    quadrants: 1
+    index: 0
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 22
+    quadrants: 2
+    index: 1
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 29
+    quadrants: 0
+    index: 2
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 22
+    quadrants: 2
+    index: 3
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 15
+    quadrants: 4
+    index: 4
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 29
+    quadrants: 0
+    index: 5
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 22
+    quadrants: 2
+    index: 6
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 9
+    quadrants: 4
+    index: 7
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 29
+    quadrants: 0
+    index: 8
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 22
+    quadrants: 2
+    index: 9
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 15
+    quadrants: 4
+    index: 10
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 29
+    quadrants: 0
+    index: 11
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 29
+    quadrants: 0
+    index: 12
+    flags: 0
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 29
+    quadrants: 0
+    index: 13
+    flags: 0
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 4242411930635027003}
+    connectionType: 29
+    quadrants: 0
+    index: 14
+    flags: 0
+    knob: {fileID: 0}
+    tubes: []
+  connected: 
+  connectableConnections: 15
+  connectedTo:
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  gridSize: {x: 2, y: 4}
+--- !u!65 &6918833969756934702
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 955384125601421634}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.1999999, y: 0, z: 1.9999999}
+  m_Center: {x: -0.39999998, y: 0, z: 0.79999995}
+--- !u!1 &3709262922984915234
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4460008814283482469}
+  - component: {fileID: 1326499659881233687}
+  - component: {fileID: 686635095354472419}
+  m_Layer: 13
+  m_Name: Custom2DField
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4460008814283482469
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3709262922984915234}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.4, y: 3.84, z: -2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6360448951029398229}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1326499659881233687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3709262922984915234}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b493b474cee08c4ba5dabdfeb45b65e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  connectivity: {fileID: 2043350803235534163}
+  kind: 0
+  connections:
+  - field: {fileID: 1326499659881233687}
+    connectionType: 18
+    quadrants: 1
+    index: 0
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 1
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 2
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 3
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 4
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 5
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 6
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 7
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 8
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 9
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 10
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 11
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 18
+    quadrants: 1
+    index: 12
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 13
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 1
+    quadrants: 4
+    index: 14
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 15
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 16
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 17
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 18
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 19
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 20
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 21
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 22
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 23
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 1
+    quadrants: 4
+    index: 24
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 25
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 18
+    quadrants: 2
+    index: 26
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 27
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 28
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 29
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 30
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 31
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 32
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 33
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 34
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 35
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 36
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 37
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 18
+    quadrants: 2
+    index: 38
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 39
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 1
+    quadrants: 4
+    index: 40
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 41
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 42
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 43
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 44
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 45
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 46
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 47
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 48
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 49
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 1
+    quadrants: 4
+    index: 50
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 51
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 18
+    quadrants: 1
+    index: 52
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 53
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 54
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 55
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 56
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 57
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 58
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 59
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 60
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 61
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 62
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 63
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 18
+    quadrants: 1
+    index: 64
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 65
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 66
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 67
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 1
+    quadrants: 4
+    index: 68
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 69
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 70
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 71
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 72
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 73
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 1
+    quadrants: 4
+    index: 74
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 75
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 76
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 77
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 78
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 79
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 18
+    quadrants: 1
+    index: 80
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 81
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 18
+    quadrants: 1
+    index: 82
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 83
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 84
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 85
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 18
+    quadrants: 1
+    index: 86
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 23
+    quadrants: 4
+    index: 87
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 18
+    quadrants: 1
+    index: 88
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 89
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 1326499659881233687}
+    connectionType: 29
+    quadrants: 0
+    index: 90
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  connected: 
+  connectableConnections: 91
+  connectedTo:
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  gridSize: {x: 12, y: 6}
+--- !u!65 &686635095354472419
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3709262922984915234}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 5.2, y: 0, z: 2.7999997}
+  m_Center: {x: -2.3999999, y: 0, z: 1.1999998}
+--- !u!1 &4000090689330159573
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6360448951029398229}
+  - component: {fileID: 2043350803235534163}
+  m_Layer: 0
+  m_Name: 6083
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6360448951029398229
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4000090689330159573}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6211779567965650275}
+  - {fileID: 7425995972940441447}
+  - {fileID: 206723294201403946}
+  - {fileID: 3203931231296760848}
+  - {fileID: 4105831069454787162}
+  - {fileID: 9073324564025214841}
+  - {fileID: 4460008814283482469}
+  - {fileID: 7055138128638756110}
+  - {fileID: 3207944799120530093}
+  - {fileID: 1300878668031849903}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2043350803235534163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4000090689330159573}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deb893d6bf2c95a45938bd55b2e051a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 2
+  part: {fileID: 0}
+  extents:
+    m_Center: {x: -2.8, y: 3.449, z: -0.79999995}
+    m_Extent: {x: -3.2, y: 3.449, z: 1.2}
+  planarFields:
+  - {fileID: 6772978214498803894}
+  - {fileID: 4242411930635027003}
+  - {fileID: 2337027111791320422}
+  - {fileID: 5526766946768587275}
+  - {fileID: 16142395079451719}
+  - {fileID: 8151393054839331799}
+  - {fileID: 1326499659881233687}
+  - {fileID: 5858217889325475005}
+  - {fileID: 6577058193091695231}
+  - {fileID: 8013002469397462883}
+  axleFields: []
+  fixedFields: []
+--- !u!1 &4145431624173577608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 206723294201403946}
+  - component: {fileID: 2337027111791320422}
+  - component: {fileID: 6738931808886260310}
+  m_Layer: 12
+  m_Name: Custom2DField
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &206723294201403946
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4145431624173577608}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.2, y: 0.96, z: -2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6360448951029398229}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2337027111791320422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4145431624173577608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b493b474cee08c4ba5dabdfeb45b65e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  connectivity: {fileID: 2043350803235534163}
+  kind: 1
+  connections:
+  - field: {fileID: 2337027111791320422}
+    connectionType: 29
+    quadrants: 0
+    index: 0
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 22
+    quadrants: 2
+    index: 1
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 22
+    quadrants: 1
+    index: 2
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 29
+    quadrants: 0
+    index: 3
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 15
+    quadrants: 4
+    index: 4
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 22
+    quadrants: 2
+    index: 5
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 29
+    quadrants: 0
+    index: 6
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 9
+    quadrants: 4
+    index: 7
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 22
+    quadrants: 2
+    index: 8
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 29
+    quadrants: 0
+    index: 9
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 15
+    quadrants: 4
+    index: 10
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 22
+    quadrants: 2
+    index: 11
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 29
+    quadrants: 0
+    index: 12
+    flags: 0
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 29
+    quadrants: 0
+    index: 13
+    flags: 0
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 2337027111791320422}
+    connectionType: 29
+    quadrants: 0
+    index: 14
+    flags: 0
+    knob: {fileID: 0}
+    tubes: []
+  connected: 
+  connectableConnections: 15
+  connectedTo:
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  gridSize: {x: 2, y: 4}
+--- !u!65 &6738931808886260310
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4145431624173577608}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.1999999, y: 0, z: 1.9999999}
+  m_Center: {x: -0.39999998, y: 0, z: 0.79999995}
+--- !u!1 &4633158708800376860
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4105831069454787162}
+  - component: {fileID: 16142395079451719}
+  - component: {fileID: 5917908355986654695}
+  m_Layer: 13
+  m_Name: Custom2DField
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4105831069454787162
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4633158708800376860}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.4, y: 1.92, z: -2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6360448951029398229}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &16142395079451719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4633158708800376860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b493b474cee08c4ba5dabdfeb45b65e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  connectivity: {fileID: 2043350803235534163}
+  kind: 0
+  connections:
+  - field: {fileID: 16142395079451719}
+    connectionType: 18
+    quadrants: 1
+    index: 0
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 1
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 2
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 3
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 4
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 5
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 6
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 7
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 8
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 9
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 10
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 11
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 12
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 13
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 14
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 15
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 18
+    quadrants: 1
+    index: 16
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 17
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 1
+    quadrants: 4
+    index: 18
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 19
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 20
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 21
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 22
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 23
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 24
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 25
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 26
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 27
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 28
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 29
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 30
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 31
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 1
+    quadrants: 4
+    index: 32
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 33
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 18
+    quadrants: 2
+    index: 34
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 35
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 36
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 37
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 38
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 39
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 40
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 41
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 42
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 43
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 44
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 45
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 46
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 47
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 48
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 49
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 18
+    quadrants: 2
+    index: 50
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 51
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 1
+    quadrants: 4
+    index: 52
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 53
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 54
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 55
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 56
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 57
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 58
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 59
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 60
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 61
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 62
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 63
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 64
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 65
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 1
+    quadrants: 4
+    index: 66
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 67
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 18
+    quadrants: 1
+    index: 68
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 69
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 70
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 71
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 72
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 73
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 74
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 75
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 76
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 77
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 78
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 79
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 80
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 81
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 29
+    quadrants: 0
+    index: 82
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 23
+    quadrants: 4
+    index: 83
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 16142395079451719}
+    connectionType: 18
+    quadrants: 1
+    index: 84
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  connected: 
+  connectableConnections: 85
+  connectedTo:
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  gridSize: {x: 16, y: 4}
+--- !u!65 &5917908355986654695
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4633158708800376860}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 6.7999997, y: 0, z: 1.9999999}
+  m_Center: {x: -3.1999998, y: 0, z: 0.79999995}
+--- !u!1 &4950107610330026164
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6211779567965650275}
+  - component: {fileID: 6772978214498803894}
+  - component: {fileID: 5839479918975273835}
+  m_Layer: 12
+  m_Name: Custom2DField
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6211779567965650275
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4950107610330026164}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.4, y: 0, z: -2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6360448951029398229}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6772978214498803894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4950107610330026164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b493b474cee08c4ba5dabdfeb45b65e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  connectivity: {fileID: 2043350803235534163}
+  kind: 1
+  connections:
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 0
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 1
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 1
+    index: 2
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 3
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 1
+    index: 4
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 5
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 6
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 7
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 8
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 9
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 10
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 11
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 1
+    index: 12
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 13
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 1
+    index: 14
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 15
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 16
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 17
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 18
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 19
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 15
+    quadrants: 4
+    index: 20
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 21
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 22
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 23
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 24
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 25
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 26
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 27
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 28
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 29
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 15
+    quadrants: 4
+    index: 30
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 31
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 32
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 33
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 34
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 35
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 36
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 9
+    quadrants: 4
+    index: 37
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 38
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 39
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 40
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 41
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 42
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 43
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 44
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 45
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 46
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 9
+    quadrants: 4
+    index: 47
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 48
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 49
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 50
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 51
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 52
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 53
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 15
+    quadrants: 4
+    index: 54
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 55
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 56
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 57
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 58
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 59
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 60
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 61
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 62
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 63
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 15
+    quadrants: 4
+    index: 64
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 65
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 66
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 29
+    quadrants: 0
+    index: 67
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 1
+    index: 68
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 69
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 3
+    index: 70
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 9
+    quadrants: 4
+    index: 71
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 3
+    index: 72
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 73
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 74
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 75
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 76
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 77
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 78
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 79
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 3
+    index: 80
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 9
+    quadrants: 4
+    index: 81
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 3
+    index: 82
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 83
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 1
+    index: 84
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 85
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 15
+    quadrants: 4
+    index: 86
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 87
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 15
+    quadrants: 4
+    index: 88
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 9
+    quadrants: 4
+    index: 89
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 15
+    quadrants: 4
+    index: 90
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 9
+    quadrants: 4
+    index: 91
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 15
+    quadrants: 4
+    index: 92
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 9
+    quadrants: 4
+    index: 93
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 15
+    quadrants: 4
+    index: 94
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 9
+    quadrants: 4
+    index: 95
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 15
+    quadrants: 4
+    index: 96
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 9
+    quadrants: 4
+    index: 97
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 15
+    quadrants: 4
+    index: 98
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 9
+    quadrants: 4
+    index: 99
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 15
+    quadrants: 4
+    index: 100
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 101
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 1
+    index: 102
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 103
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 104
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 105
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 106
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 107
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 108
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 109
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 110
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 111
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 112
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 113
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 114
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 115
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 116
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 2
+    index: 117
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6772978214498803894}
+    connectionType: 22
+    quadrants: 1
+    index: 118
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  connected: 
+  connectableConnections: 119
+  connectedTo:
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  gridSize: {x: 16, y: 6}
+--- !u!65 &5839479918975273835
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4950107610330026164}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 6.7999997, y: 0, z: 2.7999997}
+  m_Center: {x: -3.1999998, y: 0, z: 1.1999998}
+--- !u!1 &5533173720760418492
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3203931231296760848}
+  - component: {fileID: 5526766946768587275}
+  - component: {fileID: 1431907563145908112}
+  m_Layer: 13
+  m_Name: Custom2DField
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3203931231296760848
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5533173720760418492}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.4, y: 0.96, z: -0.4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6360448951029398229}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5526766946768587275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5533173720760418492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b493b474cee08c4ba5dabdfeb45b65e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  connectivity: {fileID: 2043350803235534163}
+  kind: 0
+  connections:
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 0
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 23
+    quadrants: 4
+    index: 1
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 2
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 3
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 4
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 5
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 6
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 23
+    quadrants: 4
+    index: 7
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 8
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 9
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 10
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 11
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 12
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 13
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 14
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 23
+    quadrants: 4
+    index: 15
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 16
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 23
+    quadrants: 4
+    index: 17
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 1
+    quadrants: 4
+    index: 18
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 23
+    quadrants: 4
+    index: 19
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 20
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 21
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 22
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 23
+    quadrants: 4
+    index: 23
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 1
+    quadrants: 4
+    index: 24
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 23
+    quadrants: 4
+    index: 25
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 26
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 27
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 28
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 29
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 30
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 23
+    quadrants: 4
+    index: 31
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 1
+    quadrants: 4
+    index: 32
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 23
+    quadrants: 4
+    index: 33
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 18
+    quadrants: 1
+    index: 34
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 23
+    quadrants: 4
+    index: 35
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 36
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 37
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 38
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 39
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 40
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 23
+    quadrants: 4
+    index: 41
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 42
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 43
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 44
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 45
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 46
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 47
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 29
+    quadrants: 0
+    index: 48
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 23
+    quadrants: 4
+    index: 49
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5526766946768587275}
+    connectionType: 18
+    quadrants: 1
+    index: 50
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  connected: 
+  connectableConnections: 51
+  connectedTo:
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  gridSize: {x: 16, y: 2}
+--- !u!65 &1431907563145908112
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5533173720760418492}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 6.7999997, y: 0, z: 1.1999999}
+  m_Center: {x: -3.1999998, y: 0, z: 0.39999998}
+--- !u!1 &5899255701952209262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9073324564025214841}
+  - component: {fileID: 8151393054839331799}
+  - component: {fileID: 606962425684403239}
+  m_Layer: 13
+  m_Name: Custom2DField
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9073324564025214841
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5899255701952209262}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.4, y: 2.88, z: -0.4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6360448951029398229}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8151393054839331799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5899255701952209262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b493b474cee08c4ba5dabdfeb45b65e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  connectivity: {fileID: 2043350803235534163}
+  kind: 0
+  connections:
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 0
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 23
+    quadrants: 4
+    index: 1
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 2
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 3
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 4
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 5
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 6
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 23
+    quadrants: 4
+    index: 7
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 8
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 9
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 10
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 23
+    quadrants: 4
+    index: 11
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 12
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 23
+    quadrants: 4
+    index: 13
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 1
+    quadrants: 4
+    index: 14
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 23
+    quadrants: 4
+    index: 15
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 16
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 17
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 18
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 23
+    quadrants: 4
+    index: 19
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 1
+    quadrants: 4
+    index: 20
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 23
+    quadrants: 4
+    index: 21
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 22
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 23
+    quadrants: 4
+    index: 23
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 1
+    quadrants: 4
+    index: 24
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 23
+    quadrants: 4
+    index: 25
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 18
+    quadrants: 1
+    index: 26
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 23
+    quadrants: 4
+    index: 27
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 28
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 29
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 30
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 31
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 18
+    quadrants: 2
+    index: 32
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 23
+    quadrants: 4
+    index: 33
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 34
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 35
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 29
+    quadrants: 0
+    index: 36
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 23
+    quadrants: 4
+    index: 37
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8151393054839331799}
+    connectionType: 18
+    quadrants: 1
+    index: 38
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  connected: 
+  connectableConnections: 39
+  connectedTo:
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  gridSize: {x: 12, y: 2}
+--- !u!65 &606962425684403239
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5899255701952209262}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 5.2, y: 0, z: 1.1999999}
+  m_Center: {x: -2.3999999, y: 0, z: 0.39999998}
+--- !u!1 &6027330020994047705
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1300878668031849903}
+  - component: {fileID: 8013002469397462883}
+  - component: {fileID: 8323776998665955910}
+  m_Layer: 13
+  m_Name: Custom2DField
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1300878668031849903
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027330020994047705}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2, y: 6.72, z: -2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6360448951029398229}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8013002469397462883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027330020994047705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b493b474cee08c4ba5dabdfeb45b65e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  connectivity: {fileID: 2043350803235534163}
+  kind: 0
+  connections:
+  - field: {fileID: 8013002469397462883}
+    connectionType: 18
+    quadrants: 1
+    index: 0
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 23
+    quadrants: 4
+    index: 1
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 18
+    quadrants: 2
+    index: 2
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 23
+    quadrants: 4
+    index: 3
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 18
+    quadrants: 1
+    index: 4
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 23
+    quadrants: 4
+    index: 5
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 1
+    quadrants: 4
+    index: 6
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 23
+    quadrants: 4
+    index: 7
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 1
+    quadrants: 4
+    index: 8
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 23
+    quadrants: 4
+    index: 9
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 18
+    quadrants: 1
+    index: 10
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 23
+    quadrants: 4
+    index: 11
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 18
+    quadrants: 2
+    index: 12
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 23
+    quadrants: 4
+    index: 13
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 8013002469397462883}
+    connectionType: 18
+    quadrants: 1
+    index: 14
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  connected: 
+  connectableConnections: 15
+  connectedTo:
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  gridSize: {x: 4, y: 2}
+--- !u!65 &8323776998665955910
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027330020994047705}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9999999, y: 0, z: 1.1999999}
+  m_Center: {x: -0.79999995, y: 0, z: 0.39999998}
+--- !u!1 &6146730450497840223
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3207944799120530093}
+  - component: {fileID: 6577058193091695231}
+  - component: {fileID: 8756359361631607453}
+  m_Layer: 13
+  m_Name: Custom2DField
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3207944799120530093
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6146730450497840223}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.2, y: 5.76, z: -2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6360448951029398229}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6577058193091695231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6146730450497840223}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b493b474cee08c4ba5dabdfeb45b65e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  connectivity: {fileID: 2043350803235534163}
+  kind: 0
+  connections:
+  - field: {fileID: 6577058193091695231}
+    connectionType: 18
+    quadrants: 1
+    index: 0
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 1
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 2
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 3
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 4
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 5
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 6
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 7
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 18
+    quadrants: 1
+    index: 8
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 9
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 1
+    quadrants: 4
+    index: 10
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 11
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 12
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 13
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 14
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 15
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 1
+    quadrants: 4
+    index: 16
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 17
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 18
+    quadrants: 1
+    index: 18
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 19
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 20
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 21
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 22
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 23
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 24
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 25
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 18
+    quadrants: 1
+    index: 26
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 27
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 28
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 29
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 1
+    quadrants: 4
+    index: 30
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 31
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 1
+    quadrants: 4
+    index: 32
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 33
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 34
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 35
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 36
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 37
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 18
+    quadrants: 1
+    index: 38
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 39
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 18
+    quadrants: 2
+    index: 40
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 23
+    quadrants: 4
+    index: 41
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 18
+    quadrants: 1
+    index: 42
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 43
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 6577058193091695231}
+    connectionType: 29
+    quadrants: 0
+    index: 44
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  connected: 
+  connectableConnections: 45
+  connectedTo:
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  gridSize: {x: 8, y: 4}
+--- !u!65 &8756359361631607453
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6146730450497840223}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6, y: 0, z: 1.9999999}
+  m_Center: {x: -1.5999999, y: 0, z: 0.79999995}
+--- !u!1 &7185386500547844759
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7055138128638756110}
+  - component: {fileID: 5858217889325475005}
+  - component: {fileID: 8092574743634762088}
+  m_Layer: 13
+  m_Name: Custom2DField
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7055138128638756110
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7185386500547844759}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.2, y: 4.8, z: -1.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6360448951029398229}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5858217889325475005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7185386500547844759}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b493b474cee08c4ba5dabdfeb45b65e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  connectivity: {fileID: 2043350803235534163}
+  kind: 0
+  connections:
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 0
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 23
+    quadrants: 4
+    index: 1
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 2
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 3
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 4
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 5
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 6
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 23
+    quadrants: 4
+    index: 7
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 8
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 23
+    quadrants: 4
+    index: 9
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 1
+    quadrants: 4
+    index: 10
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 23
+    quadrants: 4
+    index: 11
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 12
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 13
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 14
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 23
+    quadrants: 4
+    index: 15
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 1
+    quadrants: 4
+    index: 16
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 23
+    quadrants: 4
+    index: 17
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 18
+    quadrants: 1
+    index: 18
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 23
+    quadrants: 4
+    index: 19
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 20
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 21
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 22
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 23
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 29
+    quadrants: 0
+    index: 24
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 23
+    quadrants: 4
+    index: 25
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  - field: {fileID: 5858217889325475005}
+    connectionType: 18
+    quadrants: 1
+    index: 26
+    flags: 1
+    knob: {fileID: 0}
+    tubes: []
+  connected: 
+  connectableConnections: 27
+  connectedTo:
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  - field: {fileID: 0}
+    indexOfConnection: 0
+  gridSize: {x: 8, y: 2}
+--- !u!65 &8092574743634762088
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7185386500547844759}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6, y: 0, z: 1.1999999}
+  m_Center: {x: -1.5999999, y: 0, z: 0.39999998}

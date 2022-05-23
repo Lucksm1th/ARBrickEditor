@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 3791309686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43e2ee7992239bc335101e3da89a2c42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 378acc0c7d256bbbcce43c4dcb6799eb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d0090e07a89a4cbb8f1f1d126249521, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c78e27860472f4becbfcc927dff10c1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f42fcb47871d4701b3266f1898889f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00fcebf2ed35c47d6be3899dbc8320f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc078d448f8724df1ba253364cdf837a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b5b415de9143b43089f4e82527ef7bae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: deb893d6bf2c95a45938bd55b2e051a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adeda76641791a142937f3a81c966a63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 512ca329830f9455d993e8468b24324b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 703260ffb8f40460ca5737d48d0d3ac6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6076960a4ddd54b0996d52f1bfdcc6fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a298917a38a324b6f866c5a63a131561, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c7ddecad95f24096842f8b8c7397553, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e61355f62eba4e7d9ac7f403329143b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1866bcbd8c2a24af1a150aeee9b24e17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b493b474cee08c4ba5dabdfeb45b65e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Prefabs/room_U.prefab
+- Assets/Resources/Prefabs/room_O.prefab
+- Assets/Resources/Prefabs/room_U_red.prefab
+- Assets/Resources/Prefabs/room_L_red.prefab
+- Assets/Resources/Prefabs/room_X_blue.prefab
+- Assets/Resources/Prefabs/room_I_green.prefab
+- Assets/Resources/Prefabs/room_X.prefab
+- Assets/Resources/Prefabs/room_L.prefab
+- Assets/Resources/Prefabs/room_X_green.prefab
+- Assets/Resources/Prefabs/room_I_blue.prefab
+- Assets/Resources/Prefabs/room_T.prefab
+- Assets/Resources/Prefabs/room_T_blue.prefab
+- Assets/Resources/Prefabs/room_L_blue.prefab
+- Assets/Resources/Prefabs/room_L_green.prefab
+- Assets/Resources/Prefabs/room_X_red.prefab
+- Assets/Resources/Prefabs/room_U_blue.prefab
+- Assets/Resources/Prefabs/room_I_red.prefab
+- Assets/Resources/Prefabs/room_T_green.prefab
+- Assets/Resources/Prefabs/room_T_red.prefab
+- Assets/Resources/Prefabs/room_I.prefab
+- Assets/Resources/Prefabs/room_U_green.prefab
+Dependencies: []

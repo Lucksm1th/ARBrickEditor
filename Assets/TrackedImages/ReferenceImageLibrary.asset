@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5732786868959841242
+  m_GuidHigh: 7945020990368459698
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4626961376179275020
+      m_GuidHigh: 102038235218329252
+    m_SerializedTextureGuid:
+      m_GuidLow: 14737062665234154185
+      m_GuidHigh: 9266621753847247273
+    m_Size: {x: 0.03, y: 0.021073278}
+    m_SpecifySize: 1
+    m_Name: CAT
+    m_Texture: {fileID: 2800000, guid: e9f402c99069cc84a9f1f87163a79980, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5571825907247821934
+      m_GuidHigh: 4958027017418188170
+    m_SerializedTextureGuid:
+      m_GuidLow: 6391908882398690398
+      m_GuidHigh: 2243617073913256811
+    m_Size: {x: 0.03, y: 0.021055307}
+    m_SpecifySize: 1
+    m_Name: SMILE
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5304537545114756650
+      m_GuidHigh: 2817271750933158310
+    m_SerializedTextureGuid:
+      m_GuidLow: 4342701044340853690
+      m_GuidHigh: 9121266815758490665
+    m_Size: {x: 0.03, y: 0.019979166}
+    m_SpecifySize: 1
+    m_Name: STAR
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4631610394532338358
+      m_GuidHigh: 10437194935942441388
+    m_SerializedTextureGuid:
+      m_GuidLow: 17299611874552491579
+      m_GuidHigh: 1835404700666431465
+    m_Size: {x: 0.03, y: 0.019719511}
+    m_SpecifySize: 1
+    m_Name: STOP
+    m_Texture: {fileID: 0}
